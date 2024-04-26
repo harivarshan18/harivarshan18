@@ -19,9 +19,9 @@ Hi there! I'm Hari, a dual major in Computer Science and Mathematics at Arizona 
 - **Leadership:** Managing teams and leading projects that merge technology with practical applications.
 
 ## 🚀 Highlight Projects
-- [**Metastasis Image Classifier**](https://github.com/harivarshan18/base_projects/tree/main/Metastasis_Image_Classifier)
+- [**Metastasis Image Classifier**](https://github.com/harivarshan18/Histopathology-Metastases-Identification-Classifier)
   Built a highly accurate binary image classifier for identifying metastasis in histopathology images.
-- [**US Equity Market Prediction Model**](https://github.com/harivarshan18)
+- [**US Equity Market Prediction Model**](https://github.com/harivarshan18/US-Equity-Market-Prediction-Model)
   Developed a Python-based model to predict stock market trends with over 80% profitability.
 
 ## 🤝 Let's Connect
