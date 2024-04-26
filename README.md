@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hari Varshan
 
-<!--
-**harivarshan18/harivarshan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Tempe, Arizona | 📧 harivarshan18@gmail.com | [LinkedIn](https://www.linkedin.com/in/hari-varshan-d/)
 
-Here are some ideas to get you started:
+## 👋 Introduction
+Hi there! I'm Hari, a dual major in Computer Science and Mathematics at Arizona State University and an enthusiastic software developer and data analyst. I'm currently balancing my academics with exciting internships and personal projects, focusing on leveraging AI and ML technologies to solve complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 What I'm Up To
+- **Interning at DATAD.CO:** Developing custom GPT models and building data analytics dashboards.
+- **Researching at METEOR Studio Lab, ASU:** Contributing to projects like the Pre-Vet VR Simulation and the Pneuotouch Haptics-VR Device.
+- **Leading Analytical Projects at DocYou LLC:** Creating dynamic applications for healthcare accreditation.
+
+## 📘 Current Learning Endeavors
+- **Deep Diving into Deep Learning:** Enhancing my skills in neural networks, particularly Convolutional Neural Networks.
+- **Exploring Market Prediction Models:** Developing models to predict stock market trends using Python.
+
+## 💼 Professional Experience
+- **Software Development and Data Analysis:** Engaged in multiple projects involving custom software solutions, big data analytics, and interactive VR simulations.
+- **Leadership:** Managing teams and leading projects that merge technology with practical applications.
+
+## 🚀 Highlight Projects
+- [**Metastasis Image Classifier**](https://github.com/harivarshan18/base_projects/tree/main/Metastasis_Image_Classifier)
+  Built a highly accurate binary image classifier for identifying metastasis in histopathology images.
+- [**US Equity Market Prediction Model**](https://github.com/harivarshan18)
+  Developed a Python-based model to predict stock market trends with over 80% profitability.
+
+## 🤝 Let's Connect
+I'm always open to collaborating on projects in Deep Learning, NLP, or ML Accelerator Design, especially for innovative Capstone ideas.
+
+Feel free to reach out if you're interested in collaborating or if you have any questions about my work!
+
+- 📫 **Email:** harivarshan18@gmail.com
+- 🔗 **LinkedIn:** [Hari Varshan](https://www.linkedin.com/in/hari-varshan-d/)
+- 📂 **GitHub:** [hari-varshan18](https://github.com/harivarshan18)
