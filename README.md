@@ -117,20 +117,6 @@ classification.
 
 ---
 
-## 💡 Selected Projects
-
-### 🔬 [Histopathology Metastases Identification Classifier](https://github.com/harivarshan18/Histopathology-Metastases-Identification-Classifier)
-
-Developed a CNN-based classifier for detecting metastatic tissue in histopathology
-images, achieving **99% classification accuracy across 57,000 evaluation patches**.
-
-### 🎓 [Liaison: Integrated Student Hub](https://github.com/harivarshan18/Liaison)
-
-Built an AI-integrated collaborative platform as my Barrett Honors thesis,
-combining project management, real-time communication, and Gemini AI.
-
----
-
 ## 🌐 Beyond My Current Research
 
 Before beginning my Ph.D., I worked across **AI/ML research, data science,
