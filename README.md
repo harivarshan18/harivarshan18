@@ -26,7 +26,7 @@ longitudinal physiological and sensor data.
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - **Foundation Models & Representation Learning**
 - **Generative Modeling**
